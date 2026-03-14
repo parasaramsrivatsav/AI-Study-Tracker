@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+backend/*.db
+ml/*.pkl
+.env
+node_modules/
+.vscode/
+.antigravity/
+brain/
+tmp_*.py
