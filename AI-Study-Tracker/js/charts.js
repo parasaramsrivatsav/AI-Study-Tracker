@@ -2,7 +2,9 @@
  * AI Study Tracker - Charts.js (Chart.js wrappers + shared utilities)
  */
 
-const API_BASE = 'http://' + (window.location.hostname || 'localhost') + ':5000';
+const API_BASE = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1' 
+  ? 'http://' + window.location.hostname + ':5000' 
+  : window.location.origin;
 
 // ── API helpers ───────────────────────────────────────────────────────────────
 async function api(endpoint, method = 'GET', body = null) {
