@@ -23,9 +23,9 @@ app = Flask(__name__, static_folder='../', static_url_path='')
 app.secret_key = secrets.token_hex(32)
 CORS(app, resources={r"/*": {"origins": "*"}}, supports_credentials=True)
 
-@app.route('/')
-def index():
-    return app.send_static_file('index.html')
+@app.route("/")
+def home():
+    return "AI Study Tracker Running"
 
 # ── ML Model Paths ─────────────────────────────────────────────────────────────
 ML_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'ml')
@@ -1188,9 +1188,17 @@ def chatbot():
     }), 200
 
 # ── Main ───────────────────────────────────────────────────────────────────────
-if __name__ == '__main__':
+if __name__ == "__main__":
     init_db()
     load_models()
     load_faq()
-    print("\n🚀 AI Study Tracker Backend starting on http://localhost:5000")
-    app.run(debug=True, host='0.0.0.0', port=5000)
+
+    port = int(os.environ.get("PORT", 5000))
+
+    print(f"\n🚀 AI Study Tracker Backend starting on port {port}")
+
+    app.run(
+        host="0.0.0.0",
+        port=port,
+        debug=False
+    )
