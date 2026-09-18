@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "subject": "System Design",
+    "topic": "Load Balancing",
+    "duration": 90,
+    "productivity_rating": 5,
+    "notes": "Reviewed Load Balancing concepts and practiced exercises.",
+    "timestamp": "2026-08-20T14:00:00.694060",
+    "quiz_score": 84
+  },
+  {
+    "id": 2,
+    "subject": "Data Structures",
+    "topic": "Dynamic Programming",
+    "duration": 30,
+    "productivity_rating": 5,
+    "notes": "Reviewed Dynamic Programming concepts and practiced exercises.",
+    "timestamp": "2026-08-21T18:15:00.694060",
+    "quiz_score": 84
+  },
+  {
+    "id": 3,
+    "subject": "System Design",
+    "topic": "REST API Design",
+    "duration": 60,
+    "productivity_rating": 4,
+    "notes": "Reviewed REST API Design concepts and practiced exercises.",
+    "timestamp": "2026-08-22T21:15:00.694060",
+    "quiz_score": 72
+  },
+  {
+    "id": 4,
+    "subject": "Machine Learning",
+    "topic": "Random Forest",
+    "duration": 30,
+    "productivity_rating": 4,
+    "notes": "Reviewed Random Forest concepts and practiced exercises.",
+    "timestamp": "2026-08-22T13:45:00.694060",
+    "quiz_score": 72
+  },
+  {
+    "id": 5,
+    "subject": "Pandas",
+    "topic": "Missing Data Handling",
+    "duration": 60,
+    "productivity_rating": 4,
+    "notes": "Reviewed Missing Data Handling concepts and practiced exercises.",
+    "timestamp": "2026-08-22T16:15:00.694060",
+    "quiz_score": 90
+  },
+  {
+    "id": 6,
+    "subject": "JavaScript",
+    "topic": "ES6+ Features",
+    "duration": 90,
+    "productivity_rating": 3,
+    "notes": "Reviewed ES6+ Features concepts and practiced exercises.",
+    "timestamp": "2026-08-23T18:15:00.694060",
+    "quiz_score": 84
+  },
+  {
+    "id": 7,
+    "subject": "JavaScript",
+    "topic": "Closures & Scope",
+    "duration": 90,
+    "productivity_rating": 4,
+    "notes": "Reviewed Closures & Scope concepts and practiced exercises.",
+    "timestamp": "2026-08-23T10:00:00.694060",
+    "quiz_score": 77
+  },
+  {
+    "id": 8,
+    "subject": "JavaScript",
+    "topic": "Event Loop",
+    "duration": 120,
+    "productivity_rating": 4,
+    "notes": "Reviewed Event Loop concepts and practiced exercises.",
+    "timestamp": "2026-08-24T19:00:00.694060",
+    "quiz_score": 81
+  },
+  {
+    "id": 9,
+    "subject": "Python",
+    "topic": "Decorators",
+    "duration": 75,
+    "productivity_rating": 4,
+    "notes": "Reviewed Decorators concepts and practiced exercises.",
+    "timestamp": "2026-08-24T16:30:00.694060",
+    "quiz_score": 78
+  },
+  {
+    "id": 10,
+    "subject": "Machine Learning",
+    "topic": "Gradient Boosting",
+    "duration": 30,
+    "productivity_rating": 3,
+    "notes": "Reviewed Gradient Boosting concepts and practiced exercises.",
+    "timestamp": "2026-08-24T20:15:00.694060",
+    "quiz_score": 98
+  },
+  {
+    "id": 11,
+    "subject": "JavaScript",
+    "topic": "Closures & Scope",
+    "duration": 120,
+    "productivity_rating": 4,
+    "notes": "Reviewed Closures & Scope concepts and practiced exercises.",
+    "timestamp": "2026-08-25T11:45:00.694060",
+    "quiz_score": 96
+  },
+  {
+    "id": 12,
+    "subject": "JavaScript",
+    "topic": "DOM Manipulation",
+    "duration": 120,
+    "productivity_rating": 4,
+    "notes": "Reviewed DOM Manipulation concepts and practiced exercises.",
+    "timestamp": "2026-08-26T15:30:00.694060",
+    "quiz_score": 91
+  },
+  {
+    "id": 13,
+    "subject": "Machine Learning",
+    "topic": "Neural Networks",
+    "duration": 75,
+    "productivity_rating": 4,
+    "notes": "Reviewed Neural Networks concepts and practiced exercises.",
+    "timestamp": "2026-08-26T19:00:00.694060",
+    "quiz_score": 83
+  },
+  {
+    "id": 14,
+    "subject": "Machine Learning",
+    "topic": "Neural Networks",
+    "duration": 75,
+    "productivity_rating": 5,
+    "notes": "Reviewed Neural Networks concepts and practiced exercises.",
+    "timestamp": "2026-08-27T11:30:00.694060",
+    "quiz_score": 94
+  },
+  {
+    "id": 15,
+    "subject": "Pandas",
+    "topic": "Time Series Analysis",
+    "duration": 90,
+    "productivity_rating": 3,
+    "notes": "Reviewed Time Series Analysis concepts and practiced exercises.",
+    "timestamp": "2026-08-27T16:45:00.694060",
+    "quiz_score": 81
+  },
+  {
+    "id": 16,
+    "subject": "Machine Learning",
+    "topic": "Gradient Boosting",
+    "duration": 90,
+    "productivity_rating": 3,
+    "notes": "Reviewed Gradient Boosting concepts and practiced exercises.",
+    "timestamp": "2026-08-27T10:00:00.694060",
+    "quiz_score": 84
+  },
+  {
+    "id": 17,
+    "subject": "Machine Learning",
+    "topic": "Neural Networks",
+    "duration": 30,
+    "productivity_rating": 5,
+    "notes": "Reviewed Neural Networks concepts and practiced exercises.",
+    "timestamp": "2026-08-28T17:45:00.694060",
+    "quiz_score": 92
+  },
+  {
+    "id": 18,
+    "subject": "System Design",
+    "topic": "Load Balancing",
+    "duration": 90,
+    "productivity_rating": 4,
+    "notes": "Reviewed Load Balancing concepts and practiced exercises.",
+    "timestamp": "2026-08-28T13:15:00.694060",
+    "quiz_score": 92
+  },
+  {
+    "id": 19,
+    "subject": "System Design",
+    "topic": "Load Balancing",
+    "duration": 75,
+    "productivity_rating": 4,
+    "notes": "Reviewed Load Balancing concepts and practiced exercises.",
+    "timestamp": "2026-08-28T12:00:00.694060",
+    "quiz_score": 94
+  },
+  {
+    "id": 20,
+    "subject": "Data Structures",
+    "topic": "Sorting Algorithms",
+    "duration": 45,
+    "productivity_rating": 3,
+    "notes": "Reviewed Sorting Algorithms concepts and practiced exercises.",
+    "timestamp": "2026-08-29T08:30:00.694060",
+    "quiz_score": 84
+  },
+  {
+    "id": 21,
+    "subject": "Python",
+    "topic": "Asyncio",
+    "duration": 120,
+    "productivity_rating": 4,
+    "notes": "Reviewed Asyncio concepts and practiced exercises.",
+    "timestamp": "2026-08-29T20:00:00.694060",
+    "quiz_score": 74
+  },
+  {
+    "id": 22,
+    "subject": "Python",
+    "topic": "Multiprocessing",
+    "duration": 90,
+    "productivity_rating": 4,
+    "notes": "Reviewed Multiprocessing concepts and practiced exercises.",
+    "timestamp": "2026-08-30T21:45:00.694060",
+    "quiz_score": 83
+  },
+  {
+    "id": 23,
+    "subject": "Python",
+    "topic": "Multiprocessing",
+    "duration": 60,
+    "productivity_rating": 3,
+    "notes": "Reviewed Multiprocessing concepts and practiced exercises.",
+    "timestamp": "2026-09-01T08:15:00.694060",
+    "quiz_score": 80
+  },
+  {
+    "id": 24,
+    "subject": "Python",
+    "topic": "Generators",
+    "duration": 45,
+    "productivity_rating": 3,
+    "notes": "Reviewed Generators concepts and practiced exercises.",
+    "timestamp": "2026-09-01T10:00:00.694060",
+    "quiz_score": 76
+  },
+  {
+    "id": 25,
+    "subject": "Machine Learning",
+    "topic": "Gradient Boosting",
+    "duration": 60,
+    "productivity_rating": 3,
+    "notes": "Reviewed Gradient Boosting concepts and practiced exercises.",
+    "timestamp": "2026-09-01T19:45:00.694060",
+    "quiz_score": 94
+  },
+  {
+    "id": 26,
+    "subject": "JavaScript",
+    "topic": "DOM Manipulation",
+    "duration": 120,
+    "productivity_rating": 4,
+    "notes": "Reviewed DOM Manipulation concepts and practiced exercises.",
+    "timestamp": "2026-09-02T09:15:00.694060",
+    "quiz_score": 79
+  },
+  {
+    "id": 27,
+    "subject": "Pandas",
+    "topic": "DataFrames",
+    "duration": 60,
+    "productivity_rating": 5,
+    "notes": "Reviewed DataFrames concepts and practiced exercises.",
+    "timestamp": "2026-09-03T17:15:00.694060",
+    "quiz_score": 83
+  },
+  {
+    "id": 28,
+    "subject": "Machine Learning",
+    "topic": "Random Forest",
+    "duration": 45,
+    "productivity_rating": 4,
+    "notes": "Reviewed Random Forest concepts and practiced exercises.",
+    "timestamp": "2026-09-04T14:00:00.694060",
+    "quiz_score": 84
+  },
+  {
+    "id": 29,
+    "subject": "Data Structures",
+    "topic": "Heaps",
+    "duration": 90,
+    "productivity_rating": 4,
+    "notes": "Reviewed Heaps concepts and practiced exercises.",
+    "timestamp": "2026-09-04T14:00:00.694060",
+    "quiz_score": 80
+  },
+  {
+    "id": 30,
+    "subject": "Machine Learning",
+    "topic": "Gradient Boosting",
+    "duration": 45,
+    "productivity_rating": 5,
+    "notes": "Reviewed Gradient Boosting concepts and practiced exercises.",
+    "timestamp": "2026-09-05T17:45:00.694060",
+    "quiz_score": 92
+  },
+  {
+    "id": 31,
+    "subject": "Pandas",
+    "topic": "Time Series Analysis",
+    "duration": 90,
+    "productivity_rating": 4,
+    "notes": "Reviewed Time Series Analysis concepts and practiced exercises.",
+    "timestamp": "2026-09-05T12:45:00.694060",
+    "quiz_score": 98
+  },
+  {
+    "id": 32,
+    "subject": "Pandas",
+    "topic": "GroupBy & Aggregations",
+    "duration": 120,
+    "productivity_rating": 3,
+    "notes": "Reviewed GroupBy & Aggregations concepts and practiced exercises.",
+    "timestamp": "2026-09-06T19:45:00.694060",
+    "quiz_score": 70
+  },
+  {
+    "id": 33,
+    "subject": "Machine Learning",
+    "topic": "Gradient Boosting",
+    "duration": 60,
+    "productivity_rating": 4,
+    "notes": "Reviewed Gradient Boosting concepts and practiced exercises.",
+    "timestamp": "2026-09-06T20:15:00.694060",
+    "quiz_score": 74
+  },
+  {
+    "id": 34,
+    "subject": "JavaScript",
+    "topic": "DOM Manipulation",
+    "duration": 30,
+    "productivity_rating": 5,
+    "notes": "Reviewed DOM Manipulation concepts and practiced exercises.",
+    "timestamp": "2026-09-07T13:45:00.694060",
+    "quiz_score": 95
+  },
+  {
+    "id": 35,
+    "subject": "Machine Learning",
+    "topic": "Model Evaluation",
+    "duration": 60,
+    "productivity_rating": 3,
+    "notes": "Reviewed Model Evaluation concepts and practiced exercises.",
+    "timestamp": "2026-09-07T20:15:00.694060",
+    "quiz_score": 82
+  },
+  {
+    "id": 36,
+    "subject": "Python",
+    "topic": "Asyncio",
+    "duration": 60,
+    "productivity_rating": 4,
+    "notes": "Reviewed Asyncio concepts and practiced exercises.",
+    "timestamp": "2026-09-07T18:00:00.694060",
+    "quiz_score": 98
+  },
+  {
+    "id": 37,
+    "subject": "Machine Learning",
+    "topic": "Neural Networks",
+    "duration": 45,
+    "productivity_rating": 4,
+    "notes": "Reviewed Neural Networks concepts and practiced exercises.",
+    "timestamp": "2026-09-08T12:45:00.694060",
+    "quiz_score": 96
+  },
+  {
+    "id": 38,
+    "subject": "Machine Learning",
+    "topic": "Neural Networks",
+    "duration": 45,
+    "productivity_rating": 5,
+    "notes": "Reviewed Neural Networks concepts and practiced exercises.",
+    "timestamp": "2026-09-08T18:30:00.694060",
+    "quiz_score": 75
+  },
+  {
+    "id": 39,
+    "subject": "JavaScript",
+    "topic": "Async/Await & Promises",
+    "duration": 60,
+    "productivity_rating": 3,
+    "notes": "Reviewed Async/Await & Promises concepts and practiced exercises.",
+    "timestamp": "2026-09-09T08:15:00.694060",
+    "quiz_score": 76
+  },
+  {
+    "id": 40,
+    "subject": "Python",
+    "topic": "OOP Principles",
+    "duration": 75,
+    "productivity_rating": 5,
+    "notes": "Reviewed OOP Principles concepts and practiced exercises.",
+    "timestamp": "2026-09-09T11:15:00.694060",
+    "quiz_score": 86
+  },
+  {
+    "id": 41,
+    "subject": "JavaScript",
+    "topic": "DOM Manipulation",
+    "duration": 120,
+    "productivity_rating": 5,
+    "notes": "Reviewed DOM Manipulation concepts and practiced exercises.",
+    "timestamp": "2026-09-09T09:00:00.694060",
+    "quiz_score": 79
+  },
+  {
+    "id": 42,
+    "subject": "JavaScript",
+    "topic": "ES6+ Features",
+    "duration": 75,
+    "productivity_rating": 4,
+    "notes": "Reviewed ES6+ Features concepts and practiced exercises.",
+    "timestamp": "2026-09-10T09:15:00.694060",
+    "quiz_score": 86
+  },
+  {
+    "id": 43,
+    "subject": "Pandas",
+    "topic": "Missing Data Handling",
+    "duration": 120,
+    "productivity_rating": 3,
+    "notes": "Reviewed Missing Data Handling concepts and practiced exercises.",
+    "timestamp": "2026-09-10T15:15:00.694060",
+    "quiz_score": 78
+  },
+  {
+    "id": 44,
+    "subject": "Python",
+    "topic": "OOP Principles",
+    "duration": 75,
+    "productivity_rating": 3,
+    "notes": "Reviewed OOP Principles concepts and practiced exercises.",
+    "timestamp": "2026-09-10T10:45:00.694060",
+    "quiz_score": 84
+  },
+  {
+    "id": 45,
+    "subject": "System Design",
+    "topic": "Load Balancing",
+    "duration": 120,
+    "productivity_rating": 4,
+    "notes": "Reviewed Load Balancing concepts and practiced exercises.",
+    "timestamp": "2026-09-11T17:00:00.694060",
+    "quiz_score": 91
+  },
+  {
+    "id": 46,
+    "subject": "JavaScript",
+    "topic": "Event Loop",
+    "duration": 75,
+    "productivity_rating": 3,
+    "notes": "Reviewed Event Loop concepts and practiced exercises.",
+    "timestamp": "2026-09-11T08:00:00.694060",
+    "quiz_score": 73
+  },
+  {
+    "id": 47,
+    "subject": "Pandas",
+    "topic": "Missing Data Handling",
+    "duration": 30,
+    "productivity_rating": 4,
+    "notes": "Reviewed Missing Data Handling concepts and practiced exercises.",
+    "timestamp": "2026-09-12T14:00:00.694060",
+    "quiz_score": 75
+  },
+  {
+    "id": 48,
+    "subject": "JavaScript",
+    "topic": "DOM Manipulation",
+    "duration": 120,
+    "productivity_rating": 5,
+    "notes": "Reviewed DOM Manipulation concepts and practiced exercises.",
+    "timestamp": "2026-09-13T08:00:00.694060",
+    "quiz_score": 94
+  },
+  {
+    "id": 49,
+    "subject": "JavaScript",
+    "topic": "Event Loop",
+    "duration": 45,
+    "productivity_rating": 4,
+    "notes": "Reviewed Event Loop concepts and practiced exercises.",
+    "timestamp": "2026-09-15T15:00:00.694060",
+    "quiz_score": 73
+  },
+  {
+    "id": 50,
+    "subject": "System Design",
+    "topic": "REST API Design",
+    "duration": 30,
+    "productivity_rating": 5,
+    "notes": "Reviewed REST API Design concepts and practiced exercises.",
+    "timestamp": "2026-09-16T11:15:00.694060",
+    "quiz_score": 95
+  },
+  {
+    "id": 51,
+    "subject": "Pandas",
+    "topic": "DataFrames",
+    "duration": 75,
+    "productivity_rating": 4,
+    "notes": "Reviewed DataFrames concepts and practiced exercises.",
+    "timestamp": "2026-09-16T13:00:00.694060",
+    "quiz_score": 71
+  },
+  {
+    "id": 52,
+    "subject": "Pandas",
+    "topic": "Merging & Joins",
+    "duration": 30,
+    "productivity_rating": 5,
+    "notes": "Reviewed Merging & Joins concepts and practiced exercises.",
+    "timestamp": "2026-09-17T08:30:00.694060",
+    "quiz_score": 71
+  },
+  {
+    "id": 53,
+    "subject": "Machine Learning",
+    "topic": "Gradient Boosting",
+    "duration": 75,
+    "productivity_rating": 5,
+    "notes": "Reviewed Gradient Boosting concepts and practiced exercises.",
+    "timestamp": "2026-09-17T12:30:00.694060",
+    "quiz_score": 89
+  },
+  {
+    "id": 54,
+    "subject": "JavaScript",
+    "topic": "Async/Await & Promises",
+    "duration": 30,
+    "productivity_rating": 5,
+    "notes": "Reviewed Async/Await & Promises concepts and practiced exercises.",
+    "timestamp": "2026-09-18T13:45:00.694060",
+    "quiz_score": 80
+  },
+  {
+    "subject": "Machine Learning",
+    "topic": "ML",
+    "duration": 45,
+    "productivity_rating": 1,
+    "notes": "",
+    "quiz_score": 85,
+    "id": 55,
+    "timestamp": "2026-09-18T21:29:26.583769"
+  }
+]
